@@ -1,0 +1,4 @@
+I'm taking a look at billionaire average ages over the year range from 2004-2007.
+I'd like to produce a line graph for each country that tracks the change in average age of a billionaire over that time.
+I don't know where to go from here after transposing. I know that I want to convert all the data into individual observations and then facet wrap by country.
+Would love some help on where to go from here. 

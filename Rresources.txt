@@ -1,0 +1,5 @@
+Quick R: http://www.statmethods.net/
+R Cookbook: http://www.cookbook-r.com/
+R Bloggers: https://www.r-bloggers.com/
+Stack Overflow R: http://stackoverflow.com/tags/r/info
+Google's R Guide: https://google.github.io/styleguide/Rguide.xml
